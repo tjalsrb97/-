@@ -31,4 +31,38 @@
 # data = sys.stdin.readline().rstrip()
 # print(data)
 
-#1023
+#6023
+# data = input().split(':')
+# print(data[1])
+
+#6024
+# sentence = input().split(' ')
+# print(sentence[0]+sentence[1])
+
+#6025
+# a = input().split(' ')
+# print(int(a[0])+int(a[1]))
+
+#6026
+# fn = input()
+# sn = input()
+# print(float(fn)+float(sn))
+
+#6027
+# a = input()
+# n = int(a)
+# print('%x' % n)
+
+#6028
+# a = input()
+# n = int(a)
+# print('%X' % n)
+
+#6029
+# a = input()
+# n = int(a, 16)
+# print('%o' % n)
+
+#6030
+n = ord(input())
+print(n)
